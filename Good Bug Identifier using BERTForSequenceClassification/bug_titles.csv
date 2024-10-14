@@ -1,0 +1,201 @@
+title,isgood
+"App crashes when clicking 'Save' button after selecting a file in the 'Files' tab",good
+"Error message appears when trying to submit a form with empty required fields on the 'Contact Us' page",good
+"Login page fails to load on Safari browser after entering valid credentials on the 'Login' screen",good
+"Search function returns no results when entering valid keywords in the 'Search Bar' on the homepage",good
+"User profile picture does not update after uploading a new image in the 'Profile Settings' section",good
+"Data sync error occurs when trying to sync contacts on the 'Sync' page with a slow internet connection",good
+"Dropdown menu options are missing when accessed from the 'Settings' tab in the mobile app",good
+"Payment gateway fails to process transactions on the 'Checkout' page when using a credit card",good
+"Unable to add items to the cart after selecting them on the 'Product Page'",good
+"Search results are not displayed after applying filters on the 'Search Results' page",good
+"Navigation bar is unresponsive when clicking on 'Help' from the main menu in the web app",good
+"File upload fails with a 'File too large' error on the 'Upload' page when selecting files over 10MB",good
+"Date picker widget does not allow selection of dates past the current year in the 'Event Creation' form",good
+"Error message displayed when trying to delete an account on the 'Account Settings' page",good
+"The 'Forgot Password' link is broken on the 'Login' page and redirects to a 404 error page",good
+"Search bar autocomplete suggestions are not showing up when typing on the 'Search' page",good
+"Button text color does not change on hover in the 'Homepage' navigation bar",good
+"Application freezes when navigating to the 'Reports' section with large datasets loaded",good
+"Map view fails to render correctly on the 'Map' page when zooming out too far",good
+"Profile update form does not validate email format correctly on the 'Edit Profile' page",good
+"Error 500 occurs when submitting a support ticket with attachments on the 'Support' page",good
+"Modal dialog does not close when clicking the 'Close' button on the 'Modal' screen",good
+"Font size is too small on the 'Settings' page making text unreadable on mobile devices",good
+"Inconsistent date format displayed on the 'Orders' page after changing regional settings",good
+"Text input field accepts invalid phone numbers in the 'Contact Form' without validation",good
+"Application crashes when opening the 'Statistics' tab with a large number of entries",good
+"Tooltip does not appear when hovering over icons on the 'Dashboard' screen",good
+"'Save Changes' button remains disabled after modifying settings on the 'Preferences' page",good
+"Image gallery fails to load images after selecting 'All' in the filter dropdown on the 'Gallery' page",good
+"The 'Upload' button is not clickable when the file selection dialog is open on the 'Upload' page",good
+"Error message shows up when accessing the 'Help' section from the 'Settings' tab",good
+"Search bar input clears automatically after pressing 'Enter' on the 'Search' page",good
+"Error 403 occurs when accessing the 'Admin Dashboard' without appropriate permissions",good
+"User cannot log out from the 'Account' menu on mobile devices",good
+"Pagination controls are missing on the 'Articles' page when there are more than 10 items",good
+"Dropdown menu options are not visible when using the 'Select' input on the 'Filters' page",good
+"The 'Download' link is broken on the 'Downloads' page and results in a 404 error",good
+"Profile details are not saved after clicking 'Update' on the 'Profile' page",good
+"The 'Reset Password' functionality fails with a 'Service Unavailable' error on the 'Reset Password' page",good
+"Search results page loads indefinitely when no results are found",good
+"Button functionality is inconsistent on the 'Actions' tab when using different browsers",good
+"User cannot access 'Settings' page after changing their account type to 'Admin'",good
+"Application crashes when opening the 'Messages' section with a large number of unread messages",good
+"Charts do not display correctly on the 'Analytics' page when using specific data filters",good
+"Error message 'Invalid Token' appears when attempting to verify email on the 'Verification' page",good
+"Text is overlapping in the 'Notifications' panel on smaller screen resolutions",good
+"Sorting functionality fails on the 'Items' page when using the 'Price' filter",good
+"Application hangs when clicking 'Submit' after filling out a long form on the 'Feedback' page",good
+"Color scheme is inconsistent between the 'Settings' and 'Profile' pages",good
+"Search bar is unresponsive when typing on the 'Main' page of the mobile app",good
+"The 'Update Profile' button does not work after entering new details on the 'Profile' page",good
+"Table columns are not aligning correctly on the 'Reports' page when viewed on tablets",good
+"Tooltip text is cut off on the 'Info' icon in the 'Help' section",good
+"The 'Submit' button is missing on the 'Feedback' form after scrolling down",good
+"Form validation does not trigger error messages on the 'Registration' page for missing fields",good
+"Profile avatar does not resize correctly when uploading a new image on the 'Account' page",good
+"The 'Help' icon is not clickable on the 'Dashboard' page of the mobile app",good
+"Application freezes when opening the 'Messages' tab with a large number of messages",good
+"Error message appears when applying advanced filters on the 'Search Results' page",good
+"Charts on the 'Analytics' page do not update after changing date range filters",good
+"Page does not load correctly on Firefox when navigating to the 'Settings' tab",good
+"Text input field does not accept special characters on the 'Contact Form' page",good
+"Error occurs when trying to sort by 'Date' on the 'Events' page",good
+"Button color changes incorrectly when clicked on the 'Homepage'",good
+"Page layout is broken when viewing the 'Profile' page in landscape mode on mobile devices",good
+"Dropdown menu items are not clickable on the 'Settings' page after recent updates",good
+"Data fails to load on the 'Statistics' page when accessing with slow internet",good
+"Modal window content overlaps with page elements on the 'Help' screen",good
+"Text fields are not focused correctly when tabbing through the 'Registration' form",good
+"Incorrect error message shown when attempting to delete a user account on the 'Admin' page",good
+"File upload progress bar is not visible on the 'Upload' page when uploading large files",good
+"Search results are not filtered correctly by date on the 'Search' page",good
+"Navigation buttons are not working on the 'Gallery' page when using keyboard shortcuts",good
+"The 'Export' button on the 'Reports' page does not generate a file",good
+"The 'Clear All' button on the 'Filters' panel is not functional",good
+"Dropdown options are not updating correctly after selecting a new category on the 'Filter' page",good
+"Error occurs when accessing 'Account Settings' from a different device",good
+"The 'Chat' feature does not load messages on the 'Messages' page",good
+"Search results page is not responsive on tablets",good
+"Email field does not accept valid email addresses on the 'Registration' page",good
+"The 'Save' button does not work when editing user preferences on the 'Profile' page",good
+"Pagination controls are not appearing on the 'Products' page with multiple pages",good
+"The 'Download Report' button does not respond after clicking on the 'Reports' page",good
+"Error message displayed when submitting feedback on the 'Feedback' page",good
+"Image upload fails with an 'Invalid File Type' error on the 'Profile' page",good
+"Text in the 'Help' section is not visible in dark mode",good
+"Date selection widget is not working on the 'Event' creation page",good
+"The 'Reload' button on the 'Data' page does not refresh the content",good
+"The 'Next' button is missing on the 'Onboarding' screen after completing steps",good
+"Error 404 occurs when accessing 'User Settings' from the 'Profile' page",good
+"Search autocomplete suggestions are not showing up on the 'Search' page",good
+"Form submission fails with '500 Internal Server Error' on the 'Contact' page",good
+"The 'Profile' picture does not display correctly after upload on the 'Account' page",good
+"Notifications panel does not update with new notifications on the 'Notifications' page",good
+"Application crashes when accessing the 'Analytics' page with specific data filters",good
+"The 'Remove' button does not function on the 'Cart' page when removing items",good
+"The 'Reset' button does not clear fields on the 'Search' page",good
+"Dropdown menu options are not displaying correctly on the 'Settings' page",good
+"The 'View Details' link is broken on the 'Items' page leading to a 404 error",good
+"Text input fields are not validating properly on the 'Registration' form",good
+"App issue",bad
+"Error in system",bad
+"Bug on page",bad
+"Crash when saving",bad
+"Page not working",bad
+"Something went wrong",bad
+"Problem with login",bad
+"App error",bad
+"Issue in the app",bad
+"Bug in form",bad
+"Error message",bad
+"Problem with button",bad
+"Failure on page",bad
+"Form not loading",bad
+"App fails",bad
+"Error with user profile",bad
+"System crash",bad
+"Problem with filters",bad
+"App not responding",bad
+"Issue with sync",bad
+"Page not found",bad
+"Application error",bad
+"Bug in data",bad
+"System issue",bad
+"Error in navigation",bad
+"Crash in app",bad
+"Form issue",bad
+"Bug with settings",bad
+"Error in feature",bad
+"App issue with display",bad
+"Failure in sync",bad
+"Page issue",bad
+"Button not working",bad
+"Problem in system",bad
+"Application problem",bad
+"Form not saving",bad
+"Crash on save",bad
+"Issue with page",bad
+"Error in process",bad
+"App not working",bad
+"Issue with user input",bad
+"Problem in app",bad
+"Form crash",bad
+"Page error",bad
+"Error with application",bad
+"System bug",bad
+"Failure in process",bad
+"Bug in page load",bad
+"App not functioning",bad
+"Issue with download",bad
+"Error in content",bad
+"Bug with display",bad
+"Crash on page",bad
+"Problem with data",bad
+"Error in sync",bad
+"Application freeze",bad
+"Form error",bad
+"Bug with profile",bad
+"Page crash",bad
+"Issue in settings",bad
+"Application not loading",bad
+"Error in feature",bad
+"Crash on click",bad
+"Bug in process",bad
+"Issue with application",bad
+"Error in user interface",bad
+"Form does not load",bad
+"Bug in sync",bad
+"System issue with page",bad
+"Application problem",bad
+"Error with form",bad
+"Issue with app features",bad
+"Crash in profile",bad
+"Page load error",bad
+"Error in button",bad
+"Application error in sync",bad
+"Form crashes",bad
+"Page error message",bad
+"Issue with settings page",bad
+"Application fails",bad
+"Error in content display",bad
+"Bug in app interface",bad
+"System failure",bad
+"Error in feature",bad
+"Page crashes",bad
+"App sync issue",bad
+"Problem with button functionality",bad
+"Error with profile update",bad
+"Application not syncing",bad
+"Bug with page features",bad
+"System crash",bad
+"Error in navigation menu",bad
+"Application issue with form",bad
+"Page functionality issue",bad
+"Form not working",bad
+"Application load error",bad
+"Bug with system process",bad
+"Error in profile page",bad
+"Page does not work",bad
+"Application failure",bad
